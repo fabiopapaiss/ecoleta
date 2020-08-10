@@ -51,7 +51,7 @@ Ecoleta is an application that allows you to register and view collection points
 
 ## Show your support
 
-Give a ⭐️ if this project helped you!
+Give a ⭐️ if you liked this project!
 
 ***
 Made with ❤️ by Fábio Papais
